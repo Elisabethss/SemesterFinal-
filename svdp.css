@@ -1,28 +1,26 @@
-#svdplogo {
-	top:0;
-	left:0;
-	
-	
+
+body {
+	background-image:url("http://www.momorialcards.com/images/blue_background_with_fibers.jpg"); 
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size: 100% 100%;
 }
+
+#svdplogo {
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+
 
 #walkAmile {
-	top:0;
-	
-
-	
+	position:absolute;
+	right: 0px;
+	top:0px;
 }
 
-#Directory {
-
-
+#Directore {
+	position:fixed;
+	top:175px;
 	
 }
-
-#BGR {
-	 background-repeat: no-repeat;
-     background-attachment: fixed;
-     background-position: center;
-
-
-}
-
