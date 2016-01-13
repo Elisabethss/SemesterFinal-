@@ -9,18 +9,21 @@ body {
 #svdplogo {
 	position:absolute;
 	left:0px;
-	top:0px;
-}
-
-
-#walkAmile {
-	position:absolute;
-	right: 0px;
-	top:0px;
-}
-
-#Directore {
-	position:fixed;
-	top:175px;
+	top:20px;
+	padding-left:8px;
 	
+}
+
+
+#Directory {
+	position:absolute;
+	top:190px;
+	left:0px;
+	padding-left:8px;
+	
+}
+
+#OLLparish {
+	position:fixed;
+	bottom:200px;
 }
