@@ -24,6 +24,19 @@ body {
 }
 
 #OLLparish {
-	position:fixed;
-	bottom:200px;
+	position:relative;
+	width:100%;
+	top:300px;
+	padding:7px;
+}
+
+h2 {
+	position:absolute;
+	top:275;
+	right:50px;
+	width:100%;
+	color:rgb(153,204,255);
+	border-style:solid;
+	border-width:5px;
+	background-color:rgb(255,255,255)
 }
